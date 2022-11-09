@@ -1,4 +1,4 @@
-<h4>Olá, eu sou o Vinícius Morgan. Nasci e moro em Franca-SP e tenho 22 anos. Me formei em 2020 em Análise e Desenvolvimento de Sistemas na FATEC, hoje atuo como Desenvolvedor Frontend, com foco em frameworks que usam JavaScript. Sou criativo, interessado e estou sempre disposto a encarar novos desafios para meu crescimento pessoal e profissional, e espero que você faça parte dele.</h4>
+<h3>Olá, eu sou o Vinícius Morgan. Nasci e moro em Franca-SP e tenho 22 anos. Me formei em 2020 em Análise e Desenvolvimento de Sistemas na FATEC, hoje atuo como Desenvolvedor Frontend, com foco em frameworks que usam JavaScript. Sou criativo, interessado e estou sempre disposto a encarar novos desafios para meu crescimento pessoal e profissional, e espero que você faça parte dele.</h3>
 
 <div align="center">
   <a href="https://github.com/ViniciusGMorgan">
@@ -20,6 +20,6 @@
   <a href = "mailto:viniciusgmorgan1129@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<!--   ![Snake animation](https://github.com/ViniciusGMorgan/ViniciusGMorgan/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/ViniciusGMorgan/ViniciusGMorgan/blob/output/github-contribution-grid-snake.svg)
  
 </div>
