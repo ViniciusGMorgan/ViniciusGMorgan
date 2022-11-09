@@ -1,4 +1,4 @@
-## Olá, eu sou o Vinícius Morgan. Nasci e moro em Franca-SP e tenho 22 anos. Me formei em 2020 em Análise e Desenvolvimento de Sistemas na FATEC, hoje atuo como <b>Desenvolvedor Frontend</b>, com foco em frameworks que usam JavaScript. Sou criativo, interessado e estou sempre disposto a encarar novos desafios para meu crescimento pessoal e profissional, e espero que você faça parte dele.
+<h4>Olá, eu sou o Vinícius Morgan. Nasci e moro em Franca-SP e tenho 22 anos. Me formei em 2020 em Análise e Desenvolvimento de Sistemas na FATEC, hoje atuo como Desenvolvedor Frontend, com foco em frameworks que usam JavaScript. Sou criativo, interessado e estou sempre disposto a encarar novos desafios para meu crescimento pessoal e profissional, e espero que você faça parte dele.</h4>
 
 <div align="center">
   <a href="https://github.com/ViniciusGMorgan">
